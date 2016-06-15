@@ -9,6 +9,18 @@ Install:
 npm install counter716
 ```
 
+Test:
+
+```
+npm test
+```
+
+Lint: 
+
+```
+npm run lint
+```
+
 Use: 
 
 ```javascript
