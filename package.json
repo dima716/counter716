@@ -1,8 +1,12 @@
 {
   "name": "counter716",
   "version": "1.0.0",
-  "description": "Cool counter to count values",
-  "main": "index.js",
+  "description": "Very simple counter",
+  "main": "lib/counter.js",
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/dima716/counter716"
+  },
   "scripts": {
     "test": "jasmine",
     "lint": "jshint lib spec"
