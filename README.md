@@ -24,7 +24,7 @@ npm run lint
 Use: 
 
 ```javascript
-var counter = require('counter');
+var counter = require('counter716');
 
 //set value
 counter.setValue(42);
